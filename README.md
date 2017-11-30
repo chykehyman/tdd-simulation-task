@@ -1,2 +1,2 @@
-# tdd-simulation-task
-test a function for odd and even values on returned object
+# TDD Simulations
+Test a function that return an object of odd and even array of numbers respectively
